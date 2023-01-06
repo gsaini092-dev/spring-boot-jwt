@@ -1,6 +1,8 @@
 # spring-boot-jwt
 JWT Token Example
 
+Referenced: ```https://www.javainuse.com/spring/boot-jwt```
+
 1. Generate Token using POST call
    URL: ```localhost:8080/authenticate```
    
